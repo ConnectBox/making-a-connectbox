@@ -9,7 +9,7 @@ ___
 
 # Making Your Own ConnectBox
 
-The easiest way to build a ConnectBox is to simply download a prepared image of the ConnectBox software for the flavor of your device (*NanoPi NEO* or *RPi*), burn that image to a uSD card, put the card in your device, add an antenna and power up. There are currently both NEO ([v20201007a](https://github.com/ConnectBox/connectbox-pi/releases/tag/v20201007a)) and RPi (*need link*) versions available on this website. If you have an interest in compiling your own image, see the document *making_an_image.md* document ([Making an Image](https://github.com/ConnectBox/connectbox-pi/blob/master/docs/making_an_image.md)) for detailed instructions. 
+The easiest way to build a ConnectBox is to simply download a prepared image of the ConnectBox software for the flavor of your device (*NanoPi NEO* or *RPi*), burn that image to a uSD card, put the card in your device, add an antenna and power up. There are currently both NEO ([v20201007a](https://github.com/ConnectBox/connectbox-pi/releases/tag/v20201007a)) and RPi ([RPi_v20210301](https://github.com/ConnectBox/connectbox-pi/releases/tag/RPi_v20210301)) versions available on this website. If you have an interest in compiling your own image, see the document *making_an_image.md* document ([Making an Image](https://github.com/ConnectBox/connectbox-pi/blob/master/docs/making_an_image.md)) for detailed instructions. 
 
 # Building a ConnectBox image
 
